@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<img src="/screenshots/sc.jpg" height="60%" width="60%" >
+<img src="/screenshots/sc.jpg" height="80%" width="80%" >
 
 ## Getting Started
 
