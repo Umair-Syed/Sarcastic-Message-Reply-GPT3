@@ -1,4 +1,4 @@
-## Try it out here: [nextjs-gpt3-hazel.vercel.app](nextjs-gpt3-hazel.vercel.app)
+## Try it out here: [nextjs-gpt3-hazel.vercel.app](https://nextjs-gpt3-hazel.vercel.app/)
 
 <img src="/screenshots/sc.jpg" height="80%" width="80%" >
 
