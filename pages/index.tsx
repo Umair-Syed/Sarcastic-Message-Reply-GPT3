@@ -59,10 +59,10 @@ export default function Home() {
         </div>
         <Form onSubmit={handleSubmit} className={styles.inputForm}>
           <Form.Group className='mb-3' controlId='message-input'>
-            <Form.Label>Message</Form.Label>
+            <Form.Label>Message (Max length: 500 characters)</Form.Label>
             <Form.Control 
             name="message"            
-            placeholder='Enter message (Max length: 500 characters))' 
+            placeholder="Enter message (e.g What's up man?)"
             maxLength={500} />
           </Form.Group>
           <Button type='submit' className='mb-3' disabled={replyLoading}>
